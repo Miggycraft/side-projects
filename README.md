@@ -16,3 +16,5 @@ Side Projects that I wrote while practicing
 
 # Java
 -Speech to Invoker (11/28/21): Made a yt with this to show that you can play invoker using voice commands only
+
+-Insult Translate (02/13/22): Changes your insult to other language
