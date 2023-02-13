@@ -14,7 +14,7 @@ Side Projects that I wrote while practicing
 
 -HeavenlyGame (01/25/21): My first "project" that I made, one week after studying java.
 
-# Java
--Speech to Invoker (11/28/21): Made a yt with this to show that you can play invoker using voice commands only
-
+# Python
 -Insult Translate (02/13/22): Changes your insult to other language
+
+-Speech to Invoker (11/28/21): Made a yt with this to show that you can play invoker using voice commands only
