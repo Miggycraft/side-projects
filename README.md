@@ -18,3 +18,6 @@ Side Projects that I wrote while practicing
 -Insult Translate (02/13/23): Changes your insult to other language
 
 -Speech to Invoker (11/28/21): Made a yt with this to show that you can play invoker using voice commands only
+
+# C++
+-Card Count Simulator (03/30/23): I kinda gave up but it's amost done, I wrote it for my friend it uses an algorithm (altho basic and not something i came up with) to predict the likelihood of the next card showing as well as the best card to choose from, I think ang kulangan nalang is writing a code for split, it's super messy atm but if I had plans to write this again, start with line 335 and then once you complete, refractor this shit.
